@@ -1,0 +1,1 @@
+const ImageGenerator = () => <div>Generator</div>; export default ImageGenerator;
